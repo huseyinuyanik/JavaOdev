@@ -1,0 +1,29 @@
+
+public class Toplama {
+	
+	public static int topla(int... sayilar) {
+		
+		
+		int toplam=0;
+		for(int sayi:sayilar ) {
+			
+			toplam=sayi+toplam;
+			
+			
+			
+			
+			
+		}
+		
+		System.out.println("Toplam:");
+		return toplam;
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

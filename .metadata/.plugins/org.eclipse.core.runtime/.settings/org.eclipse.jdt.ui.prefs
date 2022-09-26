@@ -1,0 +1,18 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="oop1.Customer"><rhs name\="oop1.IndividualCustomer"/></lhs><lhs name\="oop1.IndividualCustomer"><rhs name\="oop1.IndividualCustomer"/></lhs><lhs name\="oop1.CooperateCustomer"><rhs name\="oop1.CooperateCustomer"/></lhs><lhs name\="classes.CustomerManager"><rhs name\="classes.CustomerManager"/></lhs><lhs name\="Toplama"><rhs name\="Toplama"/></lhs><lhs name\="DortIslem"><rhs name\="DortIslem"/></lhs><lhs name\="classesWithAttributes.Product"><rhs name\="classesWithAttributes.Product"/></lhs><lhs name\="classesWithAttributes.ProductManager"><rhs name\="classesWithAttributes.ProductManager"/></lhs><lhs name\="methodOverloading.Dortislem"><rhs name\="methodOverloading.Dortislem"/></lhs><lhs name\="inheritance.Person"><rhs name\="inheritance.Employee"/></lhs><lhs name\="inheritance.Employee"><rhs name\="inheritance.Employee"/></lhs><lhs name\="inheritance.PersonManager"><rhs name\="inheritance.CustomerManager"/></lhs><lhs name\="inheritance.CustomerManager"><rhs name\="inheritance.CustomerManager"/></lhs><lhs name\="inheritance2.BaseKrediManager"><rhs name\="inheritance2.BaseKrediManager"/><rhs name\="inheritance2.OgretmenKrediManager"/><rhs name\="inheritance2.AskerKrediManager"/><rhs name\="inheritance2.TarimKrediManager"/></lhs><lhs name\="inheritance2.TarimKrediManager"><rhs name\="inheritance2.TarimKrediManager"/></lhs><lhs name\="inheritance2.OgretmenKrediManager"><rhs name\="inheritance2.OgretmenKrediManager"/></lhs><lhs name\="inheritance2.KrediUI"><rhs name\="inheritance2.KrediUI"/></lhs></history>
+content_assist_number_of_computers=17
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale_initialized=true
+spelling_user_dictionary_encoding=
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

@@ -1,0 +1,18 @@
+package classesWithAttributes;
+
+public class ProductManager  {
+	/*
+	
+	public void Add(Product product1) {
+		
+		System.out.println("Urun eklendi."+ product1.name);
+		
+		
+	}
+	
+	public void Add2(int id, String name, String description, int stockAmount, double price) {
+		
+	}
+	*/
+
+}

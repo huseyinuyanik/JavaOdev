@@ -1,0 +1,21 @@
+package classes;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		CustomerManager customermanager= new CustomerManager();
+		
+		String msj=customermanager.Add();
+		
+		int msj2=customermanager.Remove();
+		
+		System.out.println(msj);
+		
+		
+		
+		
+
+	}
+
+}

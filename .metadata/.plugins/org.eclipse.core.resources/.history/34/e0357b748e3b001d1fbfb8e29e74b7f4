@@ -1,0 +1,37 @@
+package classes;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		CustomerManager customerManager= new CustomerManager();
+		
+		customerManager.Add();
+		customerManager.Remove();
+		customerManager.Update();
+		
+		
+		CustomerManager customerManager2= new CustomerManager();
+		customerManager2.Add();
+		customerManager2.Remove();
+		customerManager2.Update();
+		
+		
+		CustomerManager customerManager3= new CustomerManager();
+		customerManager3.Add();
+		customerManager3.Remove();
+		customerManager3.Update();
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

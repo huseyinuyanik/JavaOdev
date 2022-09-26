@@ -1,0 +1,19 @@
+package inheritance2;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		TarimKrediManager tarimKrediManager= new TarimKrediManager();
+		OgretmenKrediManager ogretmenKrediManager=new OgretmenKrediManager();
+		
+		
+		ogretmenKrediManager.Hesapla();
+		tarimKrediManager.Hesapla();
+		
+		
+		
+
+	}
+
+}

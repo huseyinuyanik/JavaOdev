@@ -1,0 +1,47 @@
+package inheritance;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Customer customer= new Customer();
+		Employee employee=new Employee();
+		
+		
+		customer.setId(21312);
+		customer.setEmail("wqeq@gmail.com");
+		customer.setFirstName("Huseyin");
+		
+		
+		employee.setId(21352);
+		employee.setFirstName("Ahmet");
+		employee.setSalary(10000);
+		
+		System.out.println(employee.getFirstName());
+		
+		Person[] persons= {employee,customer};
+		
+		for(Person person:persons) {
+			
+			System.out.println(person.getFirstName());
+			
+		}
+		
+		
+		
+		CustomerManager customermanager= new CustomerManager();
+		EmployeeManager employeemanager= new EmployeeManager();
+		
+		
+		customermanager.List();
+		employeemanager.Add();
+		employeemanager.BestEmployee();
+		
+		
+		
+		
+		
+
+	}
+
+}

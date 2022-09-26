@@ -1,0 +1,91 @@
+package oop1;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		
+
+		Product product1 = new Product();
+		product1.setName("Delonghi Kahve Mak");
+		product1.setDiscount(7);
+		product1.setUnitPrice(7500);
+		product1.setUnitsInStock(3);
+		product1.setImageUrl("bilmemne.jpg");
+		
+		
+		Product product2 = new Product();
+		product2.setName("Smack");
+		product2.setDiscount(7);
+		product2.setUnitPrice(7500);
+		product2.setUnitsInStock(3);
+		product2.setImageUrl("bilmemne.jpg");
+		
+		
+		Product product3 = new Product();
+		product3.setName("Kitchen aid");
+		product3.setDiscount(7);
+		product3.setUnitPrice(7500);
+		product3.setUnitsInStock(3);
+		product3.setImageUrl("bilmemne.jpg");
+		
+		
+		
+
+		// set value
+	
+		
+		//System.out.println(product1.name);
+
+		
+		
+	
+		Product[] products= {product1,product2,product3};
+		
+		System.out.println("<ul>");
+		for(Product product:products) {
+			System.out.println("<li>" + product.getName()+ "</li>");
+			
+		}
+		System.out.println("</ul>");
+		
+		IndividualCustomer individualCustomer= new IndividualCustomer();
+		individualCustomer.setId(1);
+		individualCustomer.setPhone("0554884445");
+		individualCustomer.setCustomerNumber("13355");
+		individualCustomer.setFirstName("Hüseyin");
+		individualCustomer.setLastName("Uyanik");
+		
+		CooperateCustomer cooperateCustomer= new CooperateCustomer();
+		
+		cooperateCustomer.setId(2);
+		cooperateCustomer.setCompanyName("Apple");
+		cooperateCustomer.setCustomerNumber("15456");
+		cooperateCustomer.setTaxNumber("213213");
+		cooperateCustomer.setPhone("213123");
+		
+		
+		
+		
+		
+		
+		Farmer farmer=new Farmer();
+		
+		farmer.setId(3);
+		farmer.setUrun("domates");
+		farmer.setBagkur("21313");
+		
+		Customer[] customers= {individualCustomer,cooperateCustomer,farmer};
+		
+		
+		
+		for(Customer customer: customers) {
+			System.out.println(customer);
+		}
+		
+		
+
+
+	}
+
+}

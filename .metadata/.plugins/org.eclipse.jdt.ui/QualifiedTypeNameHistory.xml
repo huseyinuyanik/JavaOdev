@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="oop1.CooperateCustomer"/>
+    <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="oop1.IndividualCustomer"/>
+    <fullyQualifiedTypeName name="classes.CustomerManager"/>
+    <fullyQualifiedTypeName name="Toplama"/>
+    <fullyQualifiedTypeName name="DortIslem"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.Product"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.ProductManager"/>
+    <fullyQualifiedTypeName name="methodOverloading.Dortislem"/>
+    <fullyQualifiedTypeName name="inheritance.Customer"/>
+    <fullyQualifiedTypeName name="inheritance.Employee"/>
+    <fullyQualifiedTypeName name="inheritance.PersonManager"/>
+    <fullyQualifiedTypeName name="inheritance.CustomerManager"/>
+    <fullyQualifiedTypeName name="inheritance2.KrediUI"/>
+    <fullyQualifiedTypeName name="inheritance2.OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="inheritance2.BaseKrediManager"/>
+    <fullyQualifiedTypeName name="inheritance2.AskerKrediManager"/>
+    <fullyQualifiedTypeName name="inheritance2.TarimKrediManager"/>
+</qualifiedTypeNameHistroy>

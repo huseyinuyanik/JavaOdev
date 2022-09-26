@@ -1,0 +1,17 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		DortIslem dortislem= new DortIslem();
+		
+		dortislem.bol(5,2);
+		
+		
+		
+		
+
+	}
+
+}
